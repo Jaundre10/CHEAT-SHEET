@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(108, 111, 114);
+    font-family: monospace;
+}
+
+h1 {   
+    color: burlywood;
+    font-size: 30px;
+    margin: 20px auto;
+}
+
+h3 {
+    color: burlywood;
+    font-size: 26px;
+    margin: 20px auto;
+    font-weight: bold;
+    
+}
+
+table {
+    margin: 20px auto;
+    width: 80%;
+    font-size: 18px;
+    border: 2px solid black;
+    
+}
+
+th , td , tr {
+    padding: 5px;
+    border: 2px solid black;
+}
+
+tr {
+    background-color: rgb(255, 255, 255);
+}
